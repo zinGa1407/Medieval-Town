@@ -53,7 +53,7 @@ public class PlayerControls : MonoBehaviour {
         //if (Input.GetKeyUp(KeyCode.LeftControl)) _mainCamera.transform.localPosition = new Vector3(0f, 0f, 0f);
 
         // QUIT / EXIT
-        if (Input.GetKeyDown(KeyCode.Escape)) UnityEditor.EditorApplication.isPlaying = false;
+        //if (Input.GetKeyDown(KeyCode.Escape)) UnityEditor.EditorApplication.isPlaying = false;
     }
 
     private float ClampAngle(float angle, float min, float max)
