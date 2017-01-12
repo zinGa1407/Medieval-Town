@@ -45,7 +45,9 @@ public class PlayerControls : MonoBehaviour {
 
         moveDirection = new Vector3(Input.GetAxis("Horizontal"), 0, Input.GetAxis("Vertical"));
         moveDirection = transform.TransformDirection(Vector3.ClampMagnitude(moveDirection, 1));
-        playerBody.velocity = moveDirection * 5f;
+        moveDirection = moveDirection * 5f;
+        moveDirection = new Vector3(moveDirection.x, playerBody.velocity.y, moveDirection.z);
+        playerBody.velocity = moveDirection;
 
 
         //Duck (improve smooth)
