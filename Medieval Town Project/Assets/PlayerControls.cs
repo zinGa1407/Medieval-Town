@@ -23,6 +23,8 @@ public class PlayerControls : MonoBehaviour {
 
    
     void Start () {
+        Application.targetFrameRate = 60;
+
         _mainCamera = gameObject.transform.GetChild(0).GetComponent<Camera>();
         originalRotation = transform.localRotation;
 
