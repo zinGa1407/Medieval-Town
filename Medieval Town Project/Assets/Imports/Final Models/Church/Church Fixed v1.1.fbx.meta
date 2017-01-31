@@ -1,0 +1,201 @@
+fileFormatVersion: 2
+guid: 5cdbbda6e0f2c274198895ddcecc64d9
+timeCreated: 1485882519
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Arch1
+    100002: Arch2
+    100004: Arch3
+    100006: BackBase
+    100008: BackRoof
+    100010: //RootNode
+    100012: FrontBase
+    100014: FrontPillar1
+    100016: FrontPillar2
+    100018: FrontRoof
+    100020: NewBase
+    100022: Pillar
+    100024: Pillar10
+    100026: Pillar6
+    100028: Pillar7
+    100030: Pillar8
+    100032: Pillar9
+    100034: Roof
+    100036: Roof_Window
+    100038: SidePillars
+    100040: Stairs
+    100042: Stairs 1
+    100044: StairsSide
+    100046: StairsSide1
+    100048: Tower_1
+    100050: Tower_2
+    100052: TowerTop
+    100054: Window
+    400000: Arch1
+    400002: Arch2
+    400004: Arch3
+    400006: BackBase
+    400008: BackRoof
+    400010: //RootNode
+    400012: FrontBase
+    400014: FrontPillar1
+    400016: FrontPillar2
+    400018: FrontRoof
+    400020: NewBase
+    400022: Pillar
+    400024: Pillar10
+    400026: Pillar6
+    400028: Pillar7
+    400030: Pillar8
+    400032: Pillar9
+    400034: Roof
+    400036: Roof_Window
+    400038: SidePillars
+    400040: Stairs
+    400042: Stairs 1
+    400044: StairsSide
+    400046: StairsSide1
+    400048: Tower_1
+    400050: Tower_2
+    400052: TowerTop
+    400054: Window
+    2300000: Arch1
+    2300002: Arch2
+    2300004: Arch3
+    2300006: BackBase
+    2300008: BackRoof
+    2300010: FrontBase
+    2300012: FrontPillar1
+    2300014: FrontPillar2
+    2300016: FrontRoof
+    2300018: Pillar
+    2300020: Pillar10
+    2300022: Pillar6
+    2300024: Pillar7
+    2300026: Pillar8
+    2300028: Pillar9
+    2300030: Roof_Window
+    2300032: Stairs 1
+    2300034: StairsSide
+    2300036: StairsSide1
+    2300038: Tower_1
+    2300040: Tower_2
+    2300042: TowerTop
+    2300044: Window
+    3300000: Arch1
+    3300002: Arch2
+    3300004: Arch3
+    3300006: BackBase
+    3300008: BackRoof
+    3300010: FrontBase
+    3300012: FrontPillar1
+    3300014: FrontPillar2
+    3300016: FrontRoof
+    3300018: Pillar
+    3300020: Pillar10
+    3300022: Pillar6
+    3300024: Pillar7
+    3300026: Pillar8
+    3300028: Pillar9
+    3300030: Roof_Window
+    3300032: Stairs 1
+    3300034: StairsSide
+    3300036: StairsSide1
+    3300038: Tower_1
+    3300040: Tower_2
+    3300042: TowerTop
+    3300044: Window
+    4300000: BackRoof
+    4300002: FrontRoof
+    4300004: FrontPillar1
+    4300006: FrontPillar2
+    4300008: Pillar
+    4300010: Pillar6
+    4300012: Pillar7
+    4300014: Pillar8
+    4300016: Pillar9
+    4300018: Pillar10
+    4300020: Stairs
+    4300022: StairsSide
+    4300024: StairsSide1
+    4300026: Arch3
+    4300028: Arch2
+    4300030: Arch1
+    4300032: Tower_1
+    4300034: Tower_2
+    4300036: Window
+    4300038: Roof_Window
+    4300040: BackBase
+    4300042: FrontBase
+    4300044: TowerTop
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
